@@ -39,7 +39,7 @@ The dashboard helps answer the following questions:
 
 > (Insert a screenshot image here once uploaded)
 
-![Spotify Dashboard](dashboard-screenshot.png)
+![Spotify Dashboard](https://github.com/sathishsathish31/spotify-dashbord/blob/main/Screenshot%202025-04-20%20181614.png)
 
 ## 📁 Files in this Repo
 
@@ -55,8 +55,8 @@ The dashboard helps answer the following questions:
 
 ## ✨ Author
 
-*Sathees*  
+*Sathees kumar k *  
 Final Year B.Sc. Computer Science Student  
-Aspiring Data Analyst | Power BI Enthusiast | Frontend Developer  
+Aspiring Data Analyst | Power BI Enthusiast  
 
-Connect with me on [LinkedIn](https://www.linkedin.com/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/sathees-kumar-k-23b3aa354)
