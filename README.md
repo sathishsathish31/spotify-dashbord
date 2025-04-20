@@ -27,13 +27,12 @@ The dashboard helps answer the following questions:
 
 ## 🔍 Visuals Included
 
-- *Genre Popularity* (Bar Chart)
-- *Top Artists* (Pie Chart)
-- *Popularity Over Time* (Line Chart)
-- *Danceability vs Energy* (Scatter Plot)
-- *BPM Trend* by Year (Line Chart)
+- *SUM of POPULARITY by TOP GENRE* (Bar Chart)
+- *COUNT OF TITLE  BY TOP GENRE* (donet Chart)
+- *SUM OF ENERGY AND SUM OF DANCEABILITY  BY YEAR* (Scatter Plot)
+- *line chart* find trend
 - *Summary Cards* (Total Songs, Avg Popularity, etc.)
-- *Slicers* for Year, Genre, Artist
+- *Slicers* ( Year, Genre, Artist,etc.)
 
 ## 📸 Dashboard Preview
 
@@ -43,8 +42,8 @@ The dashboard helps answer the following questions:
 
 ## 📁 Files in this Repo
 
-- Spotify_Dashboard_Sathees.pbix – Power BI dashboard file
-- dashboard-screenshot.png – Preview image of the dashboard
+- pro20-04.pbix – Power BI dashboard file
+- Screenshot 2025-04-20 181614.png – Preview image of the dashboard
 - README.md – Project explanation
 
 ## 🚀 How to View
